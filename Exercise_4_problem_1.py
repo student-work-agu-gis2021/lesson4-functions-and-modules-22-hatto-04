@@ -48,7 +48,7 @@ print("71 degrees Fahrenheit in Celsius is:", fahr_to_celsius(71),"Celsius")
 
 # YOUR ANSWER HERE. Write your answers as comments
 #1. Yes
-#2. 
+#2. It can convert whatever temerature we input, and only one variable needs to be defined.
 #
 # #### Done!
 # 

@@ -25,6 +25,15 @@
 
 
 # YOUR CODE HERE to define temp_classifier
+def temp_classifier(temp_celsius):
+  if temp_celsius<-2:
+    return 0
+  elif -2<=temp_celsius<2:
+    return 1
+  elif 2<=temp_celsius<15:
+    return 2
+  elif 15<=temp_celsius:
+    return 3
 
 # Use your newly created function to print the answers to the following questions:
 
@@ -66,9 +75,9 @@ print("ok :)")
 #  - Does your function has an informative dosctring?
 
 # YOUR ANSWER HERE. Write your answer as comments
-#
-#
-#
+#1.Yes
+#2.Yes
+#3.Yes
 #
 #
 # YOUR ANSWER ENDS HERE
